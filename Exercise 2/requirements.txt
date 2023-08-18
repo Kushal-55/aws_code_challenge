@@ -1,0 +1,7 @@
+pandas
+argparse
+boto3
+requests
+xlrd
+xlsxwriter
+gdown
