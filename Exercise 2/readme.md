@@ -1,4 +1,4 @@
-# These are the details for the following file:
+# File details:
 
 ## requirements.txt: 
 This file contains the Python dependencies required for the project.
