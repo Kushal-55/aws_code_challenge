@@ -13,4 +13,4 @@ The Dockerfile for building the Docker image.
 
 Use the follwing steps to build and run the docker file:
 docker build -t file_name . docker build -t file_name . 
-docker run --env-file env_variables.env file_name python main.py --year year --city city
+docker run --env-file env_variables.env file_name python main.py -year year -city city
