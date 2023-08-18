@@ -1,5 +1,4 @@
-# Files:
+## Files:
 
-## main.py:
+main.py: The main Python script that performs the weather data analysis.
 
-This file contains the pyth
