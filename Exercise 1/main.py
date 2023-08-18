@@ -22,8 +22,8 @@ def main():
 
         # For command line input for year and city
         parser = argparse.ArgumentParser(description='Process input for year and city')
-        parser.add_argument('--year', type=int, choices=[2018], help='Valid Input years: (2018)')
-        parser.add_argument('--city', type=str, choices=['Toronto'], help='Valid City input: (Toronto)')
+        parser.add_argument('-year', type=int, choices=[2018], help='Valid Input years: (2018)')
+        parser.add_argument('-city', type=str, choices=['Toronto'], help='Valid City input: (Toronto)')
         args = parser.parse_args()
 
         # Set AWS credentials using environment variables
