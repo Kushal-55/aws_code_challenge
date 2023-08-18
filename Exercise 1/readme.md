@@ -13,4 +13,4 @@ Data for all three years, uncleaned.
 
 Enter this in the command line for code execution:
 
-python main.py --year 'year' --city 'city'
+python main.py -year 'year' -city 'city'
