@@ -1,4 +1,4 @@
-# wave_code_challenge
+# code_challenge
 
 This repository contains my submission for the Wave Code Challenge.
 
